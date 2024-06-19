@@ -26,6 +26,30 @@ Améliorer la visibilité et l'accessibilité du site pour augmenter son trafic 
 
 Contribuer directement à l'expérience utilisateur et à la satisfaction des clients.
 
+# Score Lighthouse avant optimisation
+
+- Performances : 80
+- Accessibilité : 71
+- Bonnes pratiques : 96
+- SEO : 70
+  
+# Score Lighthouse après optimisation
+
+- Performances : 99
+- Accessibilité : 100
+- Bonnes pratiques : 93
+- SEO : 100
+
+# Travaux réalisés
+
+- Optimisation des images
+- Minification des fichiers CSS
+- Fichiers JavaScript différés
+- SEO technique : optimisation des balises, texte alternatif
+- Accessiblité : gestion de la langue, des contrastes de couleur, des formulaires, des éléments d'en-tête
+- Référencement local : ajout de microdonnées Schema.org
+- Référencement réseaux sociaux : ajout de méta
+
 # Contact
 
 Pour toute question, demande d'information supplémentaire ou réalisation d'audit, vous pouvez me contacter à contact@stephaniearlt.fr. 
