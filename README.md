@@ -32,6 +32,8 @@ Contribuer directement à l'expérience utilisateur et à la satisfaction des cl
 - Accessibilité : 71
 - Bonnes pratiques : 96
 - SEO : 70
+
+[Visitez le site](https://ninacarducci.github.io/)
   
 # Score Lighthouse après optimisation
 
@@ -39,6 +41,8 @@ Contribuer directement à l'expérience utilisateur et à la satisfaction des cl
 - Accessibilité : 100
 - Bonnes pratiques : 93
 - SEO : 100
+
+[Visitez le site](https://)
 
 # Travaux réalisés
 
